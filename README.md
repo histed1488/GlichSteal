@@ -40,3 +40,19 @@ Enter your webhook from string
 
 ![image](https://github.com/histed1488/GlichSteal/assets/171606951/bc31477c-5657-4746-a897-36bc0748adb7)
 
+**Click on "OK" or "Apply"**
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/98658bd4-9e98-48c2-8976-cb8ee176fc7b)
+
+**Click on Build Artifacts**
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/3b620e5f-5a1d-40af-b95d-55543a921306)
+
+**Click on "Build"**
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/7a86cb2e-ecae-4448-8529-b360e7ab547e)
+
+**We are waiting for the build and our splitter is ready**
+
+Created by histed
+

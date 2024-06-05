@@ -16,3 +16,27 @@ Enter your webhook from string
 
 **The screenshots may contain old versions of the stealler**
 
+# Build
+
+**Click on**
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/1518e14c-7a0a-4c1e-af90-31c603ed2067)
+
+**Click on Project Structure**
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/1f6ea2e2-19b6-4eee-ae6f-0ea413673713)
+
+**Click on Artifacts**
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/770f4def-b12a-4e63-abef-3d0dd8560ab7)
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/358bac78-e696-4ce8-9c4e-fb3beb530af4)
+
+**Write "Main"**
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/3ca41c21-234a-4c66-ac4c-a2658fbd7d6e)
+
+**Click on "OK"**
+
+![image](https://github.com/histed1488/GlichSteal/assets/171606951/bc31477c-5657-4746-a897-36bc0748adb7)
+
